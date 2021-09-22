@@ -14,7 +14,7 @@ APPER="tgbotschat"
 OWNER="Owner"
 GITCLONE="t.me/Royalbotz"
 B2="telegram.dog/Haseeb_TG"
-BUTTON1=""
+BUTTON1="📕 UPDATES"
 
 def time_to_seconds(time):
     stringt = str(time)
