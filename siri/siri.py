@@ -11,7 +11,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 ABS="🗯️ SUPPORT"
 APPER="tgbotschat"
-OWNER="Owner"
+OWNER="Donation"
 GITCLONE="t.me/Royalbotz"
 B2="telegram.dog/Haseeb_TG"
 BUTTON1="📕 UPDATES"
